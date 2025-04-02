@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:equatable/equatable.dart';
 import 'package:bloc/bloc.dart';
 import 'package:simple_chat/models/user.dart';
-import 'package:simple_chat/repositories/authentication_repository.dart';
 import 'package:simple_chat/repositories/user_repository.dart';
 
 import '../../repositories/authentication_repository.dart';
